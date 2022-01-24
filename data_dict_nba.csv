@@ -1,0 +1,32 @@
+column_name,description
+player,Player Name
+pos,Position
+age,Age
+bref_team_id,Player's Team
+g,Number of Games Played
+gs,Number of Games Played as a Starting Lineup
+mp,Minutes Played
+fg,Field Goals
+fga,Field Goal Attempts
+fg.,Field Goal Percentage
+x3p,3-Point Field Goals
+x3pa,3-Point Field Goal Attempts
+x3p.,3-Point Field Goal Percentage
+x2p,2-Point Field Goals
+x2pa,2-Point Field Goal Attempts
+x2p.,2-Pint Field Goal Percentage
+efg.,Effective Field Goal Percentage
+ft,Free Throws
+fta,Free Throw Attempts
+ft.,Free Throw Percentage
+orb,Offensive Rebounds
+drb,Defensive Rebounds
+trb,Total Rebounds
+ast,Assists
+stl,Steals
+blk,Blocks
+tov,Turnovers
+pf,Personal Fouls
+pts,Points
+season,Season Year
+season_end,Season End Year
